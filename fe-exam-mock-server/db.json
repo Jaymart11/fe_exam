@@ -1,0 +1,41 @@
+{
+  "users": [
+    {
+      "email": "guest@email.com",
+      "password": "$2a$10$WpyYwbbmTJQ1YTkqlvPwfevgQ8ST.0y96fcBwAtIYYjDE00rGA7oq",
+      "id": 1
+    }
+  ],
+  "appointment": [
+    {
+      "id": 5,
+      "name": "444443333333",
+      "status": "Pending",
+      "date": "2024-03-08"
+    },
+    {
+      "name": "sgfasgsgsagsagsa",
+      "date": "2024-03-08",
+      "status": "Pending",
+      "id": 6
+    },
+    {
+      "id": 7,
+      "name": "gasgsaga",
+      "status": "Completed",
+      "date": "2024-03-06"
+    },
+    {
+      "name": "41242421421",
+      "date": "2024-02-29",
+      "status": "Completed",
+      "id": 8
+    },
+    {
+      "id": 9,
+      "name": "535253532",
+      "date": "2024-03-15",
+      "status": "Pending"
+    }
+  ]
+}
