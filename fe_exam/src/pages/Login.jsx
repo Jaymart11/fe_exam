@@ -27,7 +27,12 @@ function Login() {
             Calendar App Login
           </h1>
           <Input value={email} label="Email" onChange={setEmail} />
-          <Input value={password} label="Password" onChange={setPassword} />
+          <Input
+            value={password}
+            label="Password"
+            onChange={setPassword}
+            type="password"
+          />
           <Button value="Login" type="submit" onClick={handleSubmit} />
         </div>
       </div>

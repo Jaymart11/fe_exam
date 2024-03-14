@@ -25,7 +25,7 @@ function Confirmation({ show, setShow, handleDelete }) {
                 handleDelete();
               }}
             >
-              Delete Appointment
+              Delete
             </button>
             <button
               className="block w-full md:inline-block md:w-auto px-4 py-3 md:py-2 bg-gray-200 rounded-lg font-semibold text-sm mt-4 md:mt-0 md:order-1"

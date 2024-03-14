@@ -26,6 +26,8 @@ const AppoinmentCard = ({ appointmentData }) => {
           status,
           date: appointmentData?.date,
         });
+
+        alert("Appointment updated successfully");
       }
     } catch (err) {
       alert("Error updating appointment", err);
